@@ -28,17 +28,18 @@ This project is a web application built using Streamlit that leverages GPT-4 via
 
 ### Libraries Used:
 #### 1.Streamlit: 
-Web framework for building the user interface.
+* Web framework for building the user interface.
 #### 2.PyPDF2:
-Used for reading and extracting text from PDF documents.
+* Used for reading and extracting text from PDF documents.
 #### 3.LangChain: 
-Used for interacting with GPT-4 for document analysis and dataset query handling.
+* Used for interacting with GPT-4 for document analysis and dataset query handling.
 #### 4.Pandas: 
-Data manipulation and analysis for CSV, Excel, and JSON datasets.
+* Data manipulation and analysis for CSV, Excel, and JSON datasets.
 #### 5.FPDF: 
-PDF generation library to export summaries as PDFs.
-OpenAI (GPT-4): Large language model used for summarizing documents and answering questions.
-#### 6.Requests: 
-Used for making HTTP requests (though not utilized in the provided code).
-#### 7.Base64: 
-For encoding image files to embed in the application’s background.
+* PDF generation library to export summaries as PDFs.
+#### 6.OpenAI (GPT-4): 
+* Large language model used for summarizing documents and answering questions.
+#### 7.Requests: 
+* Used for making HTTP requests (though not utilized in the provided code).
+#### 8.Base64: 
+* For encoding image files to embed in the application’s background.
