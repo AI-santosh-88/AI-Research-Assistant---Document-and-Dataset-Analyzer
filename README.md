@@ -43,3 +43,6 @@ This project is a web application built using Streamlit that leverages GPT-4 via
 * Used for making HTTP requests (though not utilized in the provided code).
 #### 8. Base64: 
 * For encoding image files to embed in the application’s background.
+
+## Summary:
+The AI Research Assistant is a Streamlit-based web application that provides users with the ability to upload documents (PDFs, CSVs, Excel, JSON) and analyze them using GPT-4 via LangChain. The app allows for automatic text extraction from PDFs, summarizes document content, enables querying, and performs keyword searches. For datasets, the app leverages GPT-4 to provide detailed insights based on user queries. Users can also export document summaries as PDFs. The application features an interactive and visually customized UI, with the ability to set a background image and display results clearly.
